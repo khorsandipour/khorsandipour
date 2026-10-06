@@ -1,16 +1,13 @@
-## Hi there 👋
+## Ahmad Khorsandi Pour — Cloud Infrastructure Engineer
 
-<!--
-**khorsandipour/khorsandipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗️ AWS Production Architect | DevOps | Fintech SaaS
+📍 Muscat, Oman
 
-Here are some ideas to get you started:
+### Recent Work
+- Migrated 12 production services from shared hosting → AWS
+- Handled 30,000+ TPS during live festival events (Auto Scaling)
+- Implemented CIS Benchmark hardening across Linux + AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+AWS (EC2 · RDS · ECS · Lambda · WAF · CloudFront)
+Docker · GitHub Actions · Terraform · Linux
